@@ -3,8 +3,8 @@
 "name": "pontos",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "codarea": "Atalaia do Norte", "NOME_BAIRR": "Atalaia do Norte", "DISTRITO": "Atalaia do Norte" }, "geometry": { "type": "Point", "coordinates": [ -71.7242431640625, -5.599585195716318 ] } },
-{ "type": "Feature", "properties": { "codarea": "Guajara", "NOME_BAIRR": "Guajara", "DISTRITO": "Guajara" }, "geometry": { "type": "Point", "coordinates": [ -73.1744384765625, -7.193550830168335 ] } },
+{ "type": "Feature", "properties": { "codarea": "Atalaia do Norte", "NOME_BAIRR": "ATALAIA DO NORTE", "DISTRITO": "Atalaia do Norte" }, "geometry": { "type": "Point", "coordinates": [ -71.7242431640625, -5.599585195716318 ] } },
+{ "type": "Feature", "properties": { "codarea": "Guajara", "NOME_BAIRR": "GUAJARA", "DISTRITO": "Guajara" }, "geometry": { "type": "Point", "coordinates": [ -73.1744384765625, -7.193550830168335 ] } },
 { "type": "Feature", "properties": { "codarea": "Ipixuna", "NOME_BAIRR": "Ipixuna", "DISTRITO": "Ipixuna" }, "geometry": { "type": "Point", "coordinates": [ -71.8231201171875, -7.373362480979622 ] } },
 { "type": "Feature", "properties": { "codarea": "Eirunepe", "NOME_BAIRR": "Eirunepe", "DISTRITO": "Eirunepe" }, "geometry": { "type": "Point", "coordinates": [ -70.4388427734375, -6.964596817535289 ] } },
 { "type": "Feature", "properties": { "codarea": "Envira", "NOME_BAIRR": "Envira", "DISTRITO": "Envira" }, "geometry": { "type": "Point", "coordinates": [ -70.4058837890625, -7.68377332111113 ] } },
