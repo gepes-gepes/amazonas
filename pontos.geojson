@@ -11,9 +11,7 @@
     {
       "type": "Feature",
       "properties": {
-        "codarea": "Atalaia do Norte",
-        "NOME_BAIRR": "POINT - ATALAIA DO NORTE",
-        "DISTRITO": "Atalaia do Norte"
+        "name_point": "POINT - ATALAIA DO NORTE"
       },
       "geometry": {
         "type": "Point",
@@ -26,9 +24,7 @@
     {
       "type": "Feature",
       "properties": {
-        "codarea": "Guajara",
-        "NOME_BAIRR": "POINT - GUAJARA",
-        "DISTRITO": "Guajara"
+        "name_point": "POINT - GUAJARA"
       },
       "geometry": {
         "type": "Point",
@@ -41,9 +37,7 @@
     {
       "type": "Feature",
       "properties": {
-        "codarea": "Ipixuna",
-        "NOME_BAIRR": "POINT - IPIXUNA",
-        "DISTRITO": "Ipixuna"
+        "name_point": "POINT - IPIXUNA"
       },
       "geometry": {
         "type": "Point",
@@ -56,9 +50,7 @@
     {
       "type": "Feature",
       "properties": {
-        "codarea": "Eirunepe",
-        "NOME_BAIRR": "POINT - EIRUNEPE",
-        "DISTRITO": "Eirunepe"
+        "name_point": "POINT - EIRUNEPE"
       },
       "geometry": {
         "type": "Point",
@@ -71,9 +63,7 @@
     {
       "type": "Feature",
       "properties": {
-        "codarea": "Envira",
-        "NOME_BAIRR": "POINT - ENVIRA",
-        "DISTRITO": "Envira"
+        "name_point": "POINT - ENVIRA"
       },
       "geometry": {
         "type": "Point",
@@ -86,9 +76,7 @@
     {
       "type": "Feature",
       "properties": {
-        "codarea": "Pauini",
-        "NOME_BAIRR": "POINT - PAUINI",
-        "DISTRITO": "Pauini"
+        "name_point": "POINT - PAUINI"
       },
       "geometry": {
         "type": "Point",
@@ -101,9 +89,7 @@
     {
       "type": "Feature",
       "properties": {
-        "codarea": "Itamarati",
-        "NOME_BAIRR": "POINT - ITAMARATI",
-        "DISTRITO": "Itamarati"
+        "name_point": "POINT - ITAMARATI"
       },
       "geometry": {
         "type": "Point",
@@ -116,9 +102,7 @@
     {
       "type": "Feature",
       "properties": {
-        "codarea": "Boca do Acre",
-        "NOME_BAIRR": "POINT - BOCA DO ACRE",
-        "DISTRITO": "Boca do Acre"
+        "name_point": "POINT - BOCA DO ACRE"
       },
       "geometry": {
         "type": "Point",
@@ -131,9 +115,7 @@
     {
       "type": "Feature",
       "properties": {
-        "codarea": "Labrea",
-        "NOME_BAIRR": "POINT - LABREA",
-        "DISTRITO": "Labrea"
+        "name_point": "POINT - LABREA"
       },
       "geometry": {
         "type": "Point",
@@ -146,9 +128,7 @@
     {
       "type": "Feature",
       "properties": {
-        "codarea": "Canutama",
-        "NOME_BAIRR": "POINT - CANUTAMA",
-        "DISTRITO": "Canutama"
+        "name_point": "POINT - CANUTAMA"
       },
       "geometry": {
         "type": "Point",
@@ -161,9 +141,7 @@
     {
       "type": "Feature",
       "properties": {
-        "codarea": "Humaita",
-        "NOME_BAIRR": "POINT - HUMAITA",
-        "DISTRITO": "Humaita"
+        "name_point": "POINT - HUMAITA"
       },
       "geometry": {
         "type": "Point",
@@ -176,9 +154,7 @@
     {
       "type": "Feature",
       "properties": {
-        "codarea": "Manicore",
-        "NOME_BAIRR": "POINT - MANICORE",
-        "DISTRITO": "Manicore"
+        "name_point": "POINT - MANICORE"
       },
       "geometry": {
         "type": "Point",
@@ -191,9 +167,7 @@
     {
       "type": "Feature",
       "properties": {
-        "codarea": "Novo Aripuana",
-        "NOME_BAIRR": "POINT - NOVO ARIPUANA",
-        "DISTRITO": "Novo Aripuana"
+        "name_point": "POINT - NOVO ARIPUANA"
       },
       "geometry": {
         "type": "Point",
@@ -206,9 +180,7 @@
     {
       "type": "Feature",
       "properties": {
-        "codarea": "Apui",
-        "NOME_BAIRR": "POINT - APUI",
-        "DISTRITO": "Apui"
+        "name_point": "POINT - APUI"
       },
       "geometry": {
         "type": "Point",
@@ -221,9 +193,7 @@
     {
       "type": "Feature",
       "properties": {
-        "codarea": "Borba",
-        "NOME_BAIRR": "POINT - BORBA",
-        "DISTRITO": "Borba"
+        "name_point": "POINT - BORBA"
       },
       "geometry": {
         "type": "Point",
@@ -236,9 +206,7 @@
     {
       "type": "Feature",
       "properties": {
-        "codarea": "Maues",
-        "NOME_BAIRR": "POINT - MAUES",
-        "DISTRITO": "Maues"
+        "name_point": "POINT - MAUES"
       },
       "geometry": {
         "type": "Point",
@@ -251,9 +219,7 @@
     {
       "type": "Feature",
       "properties": {
-        "codarea": "Boa Vista do Ramos",
-        "NOME_BAIRR": "POINT - BOA VISTA DO RAMOS",
-        "DISTRITO": "Boa Vista do Ramos"
+        "name_point": "POINT - BOA VISTA DO RAMOS"
       },
       "geometry": {
         "type": "Point",
@@ -266,9 +232,7 @@
     {
       "type": "Feature",
       "properties": {
-        "codarea": "Barreirinha",
-        "NOME_BAIRR": "POINT - BARREIRINHA",
-        "DISTRITO": "Barreirinha"
+        "name_point": "POINT - BARREIRINHA"
       },
       "geometry": {
         "type": "Point",
@@ -281,9 +245,7 @@
     {
       "type": "Feature",
       "properties": {
-        "codarea": "Parintins",
-        "NOME_BAIRR": "POINT - PARINTINS",
-        "DISTRITO": "Parintins"
+        "name_point": "POINT - PARINTINS"
       },
       "geometry": {
         "type": "Point",
@@ -296,9 +258,7 @@
     {
       "type": "Feature",
       "properties": {
-        "codarea": "Nhamunda",
-        "NOME_BAIRR": "POINT - NHAMUNDA",
-        "DISTRITO": "Nhamunda"
+        "name_point": "POINT - NHAMUNDA"
       },
       "geometry": {
         "type": "Point",
@@ -311,9 +271,7 @@
     {
       "type": "Feature",
       "properties": {
-        "codarea": "Urucara",
-        "NOME_BAIRR": "POINT - URUCARA",
-        "DISTRITO": "Urucara"
+        "name_point": "POINT - URUCARA"
       },
       "geometry": {
         "type": "Point",
@@ -326,9 +284,7 @@
     {
       "type": "Feature",
       "properties": {
-        "codarea": "Sao Sebastiao do Uatuma",
-        "NOME_BAIRR": "POINT - SAO SEBASTIAO DO UATUMA",
-        "DISTRITO": "Sao Sebastiao do Uatuma"
+        "name_point": "POINT - SAO SEBASTIAO DO UATUMA"
       },
       "geometry": {
         "type": "Point",
@@ -341,9 +297,7 @@
     {
       "type": "Feature",
       "properties": {
-        "codarea": "Urucurituba",
-        "NOME_BAIRR": "POINT - URUCURITUBA",
-        "DISTRITO": "Urucurituba"
+        "name_point": "POINT - URUCURITUBA"
       },
       "geometry": {
         "type": "Point",
@@ -356,9 +310,7 @@
     {
       "type": "Feature",
       "properties": {
-        "codarea": "Silves",
-        "NOME_BAIRR": "POINT - SILVES",
-        "DISTRITO": "Silves"
+        "name_point": "POINT - SILVES"
       },
       "geometry": {
         "type": "Point",
@@ -371,9 +323,7 @@
     {
       "type": "Feature",
       "properties": {
-        "codarea": "Itacoatiara",
-        "NOME_BAIRR": "POINT - ITACOATIARA",
-        "DISTRITO": "Itacoatiara"
+        "name_point": "POINT - ITACOATIARA"
       },
       "geometry": {
         "type": "Point",
@@ -386,9 +336,7 @@
     {
       "type": "Feature",
       "properties": {
-        "codarea": "Nova Olinda do Norte",
-        "NOME_BAIRR": "POINT - NOVA OLINDA DO NORTE",
-        "DISTRITO": "Nova Olinda do Norte"
+        "name_point": "POINT - NOVA OLINDA DO NORTE"
       },
       "geometry": {
         "type": "Point",
@@ -401,9 +349,7 @@
     {
       "type": "Feature",
       "properties": {
-        "codarea": "Autazes",
-        "NOME_BAIRR": "POINT - AUTAZES",
-        "DISTRITO": "Autazes"
+        "name_point": "POINT - AUTAZES"
       },
       "geometry": {
         "type": "Point",
@@ -416,9 +362,7 @@
     {
       "type": "Feature",
       "properties": {
-        "codarea": "Careiro",
-        "NOME_BAIRR": "POINT - CAREIRO",
-        "DISTRITO": "Careiro"
+        "name_point": "POINT - CAREIRO"
       },
       "geometry": {
         "type": "Point",
@@ -431,9 +375,7 @@
     {
       "type": "Feature",
       "properties": {
-        "codarea": "Careiro da Varzea",
-        "NOME_BAIRR": "POINT - CAREIRO DA VARZEA",
-        "DISTRITO": "Careiro da Varzea"
+        "name_point": "POINT - CAREIRO DA VARZEA"
       },
       "geometry": {
         "type": "Point",
@@ -446,9 +388,7 @@
     {
       "type": "Feature",
       "properties": {
-        "codarea": "Itapiranga",
-        "NOME_BAIRR": "POINT - ITAPIRANGA",
-        "DISTRITO": "Itapiranga"
+        "name_point": "POINT - ITAPIRANGA"
       },
       "geometry": {
         "type": "Point",
@@ -461,9 +401,7 @@
     {
       "type": "Feature",
       "properties": {
-        "codarea": "Rio Preto da Eva",
-        "NOME_BAIRR": "POINT - RIO PRETO DA EVA",
-        "DISTRITO": "Rio Preto da Eva"
+        "name_point": "POINT - RIO PRETO DA EVA"
       },
       "geometry": {
         "type": "Point",
@@ -476,9 +414,7 @@
     {
       "type": "Feature",
       "properties": {
-        "codarea": "Manaus",
-        "NOME_BAIRR": "POINT - MANAUS",
-        "DISTRITO": "Manaus"
+        "name_point": "POINT - MANAUS"
       },
       "geometry": {
         "type": "Point",
@@ -491,9 +427,7 @@
     {
       "type": "Feature",
       "properties": {
-        "codarea": "Iranduba",
-        "NOME_BAIRR": "POINT - IRANDUBA",
-        "DISTRITO": "Iranduba"
+        "name_point": "POINT - IRANDUBA"
       },
       "geometry": {
         "type": "Point",
@@ -506,9 +440,7 @@
     {
       "type": "Feature",
       "properties": {
-        "codarea": "Manacapuru",
-        "NOME_BAIRR": "POINT - MANACAPURU",
-        "DISTRITO": "Manacapuru"
+        "name_point": "POINT - MANACAPURU"
       },
       "geometry": {
         "type": "Point",
@@ -521,9 +453,7 @@
     {
       "type": "Feature",
       "properties": {
-        "codarea": "Manaquiri",
-        "NOME_BAIRR": "POINT - MANAQUIRI",
-        "DISTRITO": "Manaquiri"
+        "name_point": "POINT - MANAQUIRI"
       },
       "geometry": {
         "type": "Point",
@@ -536,9 +466,7 @@
     {
       "type": "Feature",
       "properties": {
-        "codarea": "Beruri",
-        "NOME_BAIRR": "POINT - BERURI",
-        "DISTRITO": "Beruri"
+        "name_point": "POINT - BERURI"
       },
       "geometry": {
         "type": "Point",
@@ -551,9 +479,7 @@
     {
       "type": "Feature",
       "properties": {
-        "codarea": "Anori",
-        "NOME_BAIRR": "POINT - ANORI",
-        "DISTRITO": "Anori"
+        "name_point": "POINT - ANORI"
       },
       "geometry": {
         "type": "Point",
@@ -566,9 +492,7 @@
     {
       "type": "Feature",
       "properties": {
-        "codarea": "Anama",
-        "NOME_BAIRR": "POINT - ANAMA",
-        "DISTRITO": "Anama"
+        "name_point": "POINT - ANAMA"
       },
       "geometry": {
         "type": "Point",
@@ -581,9 +505,7 @@
     {
       "type": "Feature",
       "properties": {
-        "codarea": "Caapiranga",
-        "NOME_BAIRR": "POINT - CAAPIRANGA",
-        "DISTRITO": "Caapiranga"
+        "name_point": "POINT - CAAPIRANGA"
       },
       "geometry": {
         "type": "Point",
@@ -596,9 +518,7 @@
     {
       "type": "Feature",
       "properties": {
-        "codarea": "Novo Airao",
-        "NOME_BAIRR": "POINT - NOVO AIRAO",
-        "DISTRITO": "Novo Airao"
+        "name_point": "POINT - NOVO AIRAO"
       },
       "geometry": {
         "type": "Point",
@@ -611,9 +531,7 @@
     {
       "type": "Feature",
       "properties": {
-        "codarea": "Presidente Figueiredo",
-        "NOME_BAIRR": "POINT - PRESIDENTE FIGUEIREDO",
-        "DISTRITO": "Presidente Figueiredo"
+        "name_point": "POINT - PRESIDENTE FIGUEIREDO"
       },
       "geometry": {
         "type": "Point",
@@ -626,9 +544,7 @@
     {
       "type": "Feature",
       "properties": {
-        "codarea": "Codajas",
-        "NOME_BAIRR": "POINT - CODAJAS",
-        "DISTRITO": "Codajas"
+        "name_point": "POINT - CODAJAS"
       },
       "geometry": {
         "type": "Point",
@@ -641,9 +557,7 @@
     {
       "type": "Feature",
       "properties": {
-        "codarea": "Coari",
-        "NOME_BAIRR": "POINT - COARI",
-        "DISTRITO": "Coari"
+        "name_point": "POINT - COARI"
       },
       "geometry": {
         "type": "Point",
@@ -656,9 +570,7 @@
     {
       "type": "Feature",
       "properties": {
-        "codarea": "Tapaua",
-        "NOME_BAIRR": "POINT - TAPAUA",
-        "DISTRITO": "Tapaua"
+        "name_point": "POINT - TAPAUA"
       },
       "geometry": {
         "type": "Point",
@@ -671,9 +583,7 @@
     {
       "type": "Feature",
       "properties": {
-        "codarea": "Tefe",
-        "NOME_BAIRR": "POINT - TEFE",
-        "DISTRITO": "Tefe"
+        "name_point": "POINT - TEFE"
       },
       "geometry": {
         "type": "Point",
@@ -686,9 +596,7 @@
     {
       "type": "Feature",
       "properties": {
-        "codarea": "Alvaraes",
-        "NOME_BAIRR": "POINT - ALVARAES",
-        "DISTRITO": "Alvaraes"
+        "name_point": "POINT - ALVARAES"
       },
       "geometry": {
         "type": "Point",
@@ -701,9 +609,7 @@
     {
       "type": "Feature",
       "properties": {
-        "codarea": "Uarini",
-        "NOME_BAIRR": "POINT - UARINI",
-        "DISTRITO": "Uarini"
+        "name_point": "POINT - UARINI"
       },
       "geometry": {
         "type": "Point",
@@ -716,9 +622,7 @@
     {
       "type": "Feature",
       "properties": {
-        "codarea": "Jurua",
-        "NOME_BAIRR": "POINT - JURUA",
-        "DISTRITO": "Jurua"
+        "name_point": "POINT - JURUA"
       },
       "geometry": {
         "type": "Point",
@@ -731,9 +635,7 @@
     {
       "type": "Feature",
       "properties": {
-        "codarea": "Fonte Boa",
-        "NOME_BAIRR": "POINT - FONTE BOA",
-        "DISTRITO": "Fonte Boa"
+        "name_point": "POINT - FONTE BOA"
       },
       "geometry": {
         "type": "Point",
@@ -746,9 +648,7 @@
     {
       "type": "Feature",
       "properties": {
-        "codarea": "Maraa",
-        "NOME_BAIRR": "POINT - MARAA",
-        "DISTRITO": "Maraa"
+        "name_point": "POINT - MARAA"
       },
       "geometry": {
         "type": "Point",
@@ -761,9 +661,7 @@
     {
       "type": "Feature",
       "properties": {
-        "codarea": "Jutai",
-        "NOME_BAIRR": "POINT - JUTAI",
-        "DISTRITO": "Jutai"
+        "name_point": "POINT - JUTAI"
       },
       "geometry": {
         "type": "Point",
@@ -776,9 +674,7 @@
     {
       "type": "Feature",
       "properties": {
-        "codarea": "Tonantins",
-        "NOME_BAIRR": "POINT - TONANTINS",
-        "DISTRITO": "Tonantins"
+        "name_point": "POINT - TONANTINS"
       },
       "geometry": {
         "type": "Point",
@@ -791,9 +687,7 @@
     {
       "type": "Feature",
       "properties": {
-        "codarea": "Santo Antonio do Ica",
-        "NOME_BAIRR": "POINT - SANTO ANTONIO DO ICA",
-        "DISTRITO": "Santo Antonio do Ica"
+        "name_point": "POINT - SANTO ANTONIO DO ICA"
       },
       "geometry": {
         "type": "Point",
@@ -806,9 +700,7 @@
     {
       "type": "Feature",
       "properties": {
-        "codarea": "Amatura",
-        "NOME_BAIRR": "POINT - AMATURA",
-        "DISTRITO": "Amatura"
+        "name_point": "POINT - AMATURA"
       },
       "geometry": {
         "type": "Point",
@@ -821,9 +713,7 @@
     {
       "type": "Feature",
       "properties": {
-        "codarea": "Sao Paulo de Olivenca",
-        "NOME_BAIRR": "POINT - SAO PAULO DE OLIVENCA",
-        "DISTRITO": "Sao Paulo de Olivenca"
+        "name_point": "POINT - SAO PAULO DE OLIVENCA"
       },
       "geometry": {
         "type": "Point",
@@ -836,9 +726,7 @@
     {
       "type": "Feature",
       "properties": {
-        "codarea": "Benjamin Constant",
-        "NOME_BAIRR": "POINT - BENJAMIN CONSTANT",
-        "DISTRITO": "Benjamin Constant"
+        "name_point": "POINT - BENJAMIN CONSTANT"
       },
       "geometry": {
         "type": "Point",
@@ -851,9 +739,7 @@
     {
       "type": "Feature",
       "properties": {
-        "codarea": "Tabatinga",
-        "NOME_BAIRR": "POINT - TABATINGA",
-        "DISTRITO": "Tabatinga"
+        "name_point": "POINT - TABATINGA"
       },
       "geometry": {
         "type": "Point",
@@ -866,9 +752,7 @@
     {
       "type": "Feature",
       "properties": {
-        "codarea": "Santa Isabel do Rio Negro",
-        "NOME_BAIRR": "POINT - SANTA ISABEL DO RIO NEGRO",
-        "DISTRITO": "Santa Isabel do Rio Negro"
+        "name_point": "POINT - SANTA ISABEL DO RIO NEGRO"
       },
       "geometry": {
         "type": "Point",
@@ -881,9 +765,7 @@
     {
       "type": "Feature",
       "properties": {
-        "codarea": "Sao Gabriel da Cachoeira",
-        "NOME_BAIRR": "POINT - SAO GABRIEL DA CACHOEIRA",
-        "DISTRITO": "Sao Gabriel da Cachoeira"
+        "name_point": "POINT - SAO GABRIEL DA CACHOEIRA"
       },
       "geometry": {
         "type": "Point",
@@ -896,9 +778,7 @@
     {
       "type": "Feature",
       "properties": {
-        "codarea": "Japura",
-        "NOME_BAIRR": "POINT - JAPURA",
-        "DISTRITO": "Japura"
+        "name_point": "POINT - JAPURA"
       },
       "geometry": {
         "type": "Point",
@@ -911,9 +791,7 @@
     {
       "type": "Feature",
       "properties": {
-        "codarea": "Barcelos",
-        "NOME_BAIRR": "POINT - BARCELOS",
-        "DISTRITO": "Barcelos"
+        "name_point": "POINT - BARCELOS"
       },
       "geometry": {
         "type": "Point",
